@@ -7,6 +7,27 @@
 -Minikube
 
 ## Результат работы 
+### Схема организации контейнеров и сервисов
+![схема](arch.png)
 
-Схема организации контейнеров и сервисов - 'draw.io'
-Скриншоты результатов работы в репозитории
+### Скриншоты результатов работы в репозитории
+
+Kubernetes pods
+
+![kuberpods](screenshots/kuber%20pods.png)
+
+Kubernetes Service
+
+![kuberservice](screenshots/kuber%20service.png)
+
+port-forward
+
+![portforward](screenshots/port-forward.png)
+
+Browser
+
+![browser](screenshots/browser.png)
+
+Docker
+
+![docker](screenshots/docker.png)
