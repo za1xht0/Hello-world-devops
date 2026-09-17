@@ -1,10 +1,16 @@
-# Веб приложение “hello world” на python, которое должно работать на порту 32777
+# Тестовое задание веб приложение “hello world” на python, которое должно работать на порту 32777
 
-Стек: 
--Python 
--Docker
--Kubernetes
--Minikube
+[Теоритическая часть ТЗ](../hello_world_devops/first_part.md)
+
+## Стек
+
+- Python 
+
+- Docker
+
+- Kubernetes
+
+- Minikube
 
 ## Результат работы 
 ### Схема организации контейнеров и сервисов
