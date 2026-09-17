@@ -1,6 +1,6 @@
 # Тестовое задание веб приложение “hello world” на python, которое должно работать на порту 32777
 
-[Теоритическая часть ТЗ](../hello_world_devops/first_part.md)
+[Теоритическая часть ТЗ](../Hello-world-devops/first_part.md)
 
 ## Стек
 
